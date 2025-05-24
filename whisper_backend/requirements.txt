@@ -1,4 +1,5 @@
 fastapi
-uvicorn
-openai-whisper
+uvicorn[standard]
+whisper
 torch
+aiofiles
