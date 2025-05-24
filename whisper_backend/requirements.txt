@@ -1,5 +1,4 @@
-whisper
 fastapi
-uvicorn
-ffmpeg-python
+uvicorn[standard]
+openai-whisper
 python-multipart
