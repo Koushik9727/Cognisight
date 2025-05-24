@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507736633501",
+    "project_id": "congnisight",
+    "storage_bucket": "congnisight.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507736633501:android:8fa15a003cfde75f3ce474",
+        "android_client_info": {
+          "package_name": "com.example.congnisight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSFuZ3ssL30-Cr0FmbYnvUy9N3dvnIvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
